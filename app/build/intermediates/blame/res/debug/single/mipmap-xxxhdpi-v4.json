@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/button_login_pressed.png",
+        "source": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/app/build/intermediates/exploded-aar/MySampleApp/AWSMobileHelper/unspecified/res/mipmap-xxxhdpi-v4/button_login_pressed.png"
+    },
+    {
+        "merged": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/button_facebook_pressed.png",
+        "source": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/app/build/intermediates/exploded-aar/MySampleApp/AWSMobileHelper/unspecified/res/mipmap-xxxhdpi-v4/button_facebook_pressed.png"
+    },
+    {
+        "merged": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/button_facebook.png",
+        "source": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/app/build/intermediates/exploded-aar/MySampleApp/AWSMobileHelper/unspecified/res/mipmap-xxxhdpi-v4/button_facebook.png"
+    },
+    {
+        "merged": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/button_login.png",
+        "source": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/app/build/intermediates/exploded-aar/MySampleApp/AWSMobileHelper/unspecified/res/mipmap-xxxhdpi-v4/button_login.png"
+    }
+]
