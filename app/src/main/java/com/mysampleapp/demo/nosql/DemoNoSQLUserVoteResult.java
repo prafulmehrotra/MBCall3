@@ -13,6 +13,7 @@ import com.amazonaws.AmazonClientException;
 import com.amazonaws.mobile.AWSMobileClient;
 import com.amazonaws.mobileconnectors.dynamodbv2.dynamodbmapper.DynamoDBMapper;
 import com.amazonaws.models.nosql.UserVoteDO;
+import com.amazonaws.models.nosql.VideoNameDO;
 
 import java.util.Set;
 
@@ -26,12 +27,42 @@ public class DemoNoSQLUserVoteResult implements DemoNoSQLResult {
     @Override
     public void updateItem() {
         final DynamoDBMapper mapper = AWSMobileClient.defaultMobileClient().getDynamoDBMapper();
+        boolean originalValue = result.getUpvote();
+        if(originalValue == false){
+            result.setUpvote(true);
+            VideoNameDO video_entry = mapper.load(VideoNameDO.class, result.getVideoName());
+            video_entry.setUpvote(video_entry.getUpvote() + 1);
+            video_entry.setDownvote(video_entry.getDownvote() - 1);
+            try {
+                mapper.save(video_entry);
+                mapper.save(result);
+            } catch (final AmazonClientException ex) {
+                result.setUpvote(false);
+                throw ex;
+            }
+
+        }
     }
 
     @Override
     public void deleteItem() {
         final DynamoDBMapper mapper = AWSMobileClient.defaultMobileClient().getDynamoDBMapper();
-        mapper.delete(result);
+        boolean originalValue = result.getUpvote();
+        if(originalValue == true){
+            result.setUpvote(false);
+            VideoNameDO video_entry = mapper.load(VideoNameDO.class, result.getVideoName());
+            video_entry.setUpvote(video_entry.getUpvote() - 1);
+            video_entry.setDownvote(video_entry.getDownvote() + 1);
+            try {
+                mapper.save(video_entry);
+                mapper.save(result);
+            } catch (final AmazonClientException ex) {
+                result.setUpvote(true);
+                throw ex;
+            }
+
+        }
+
     }
 
     private void setKeyTextViewStyle(final TextView textView) {

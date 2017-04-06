@@ -1,4 +1,4 @@
-#Mon Apr 03 22:46:32 PDT 2017
+#Wed Apr 05 20:06:24 PDT 2017
 base.0=/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
