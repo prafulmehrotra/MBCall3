@@ -1,3 +1,2 @@
 # MBCall3
-tested everything except build and download.
-Test with CodePipeline.
+POC with jenkins and device farm - Codepipeline. 
