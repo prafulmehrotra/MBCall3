@@ -4,6 +4,10 @@
         "source": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/AWSMobileHelper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_in_top.xml"
     },
     {
+        "merged": "/Users/mehrop/Desktop/Octank/MBCall3/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/mehrop/Desktop/Octank/MBCall3/AWSMobileHelper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
         "merged": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
         "source": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/AWSMobileHelper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_out_top.xml"
     },
@@ -12,16 +16,44 @@
         "source": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/AWSMobileHelper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_fade_out.xml"
     },
     {
+        "merged": "/Users/mehrop/Desktop/Octank/MBCall3/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/mehrop/Desktop/Octank/MBCall3/AWSMobileHelper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/mehrop/Desktop/Octank/MBCall3/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/mehrop/Desktop/Octank/MBCall3/AWSMobileHelper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_popup_enter.xml"
+    },
+    {
         "merged": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
         "source": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/AWSMobileHelper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/mehrop/Desktop/Octank/MBCall3/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/mehrop/Desktop/Octank/MBCall3/AWSMobileHelper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mehrop/Desktop/Octank/MBCall3/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/mehrop/Desktop/Octank/MBCall3/AWSMobileHelper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_in_bottom.xml"
     },
     {
         "merged": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
         "source": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/AWSMobileHelper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_fade_in.xml"
     },
     {
+        "merged": "/Users/mehrop/Desktop/Octank/MBCall3/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/mehrop/Desktop/Octank/MBCall3/AWSMobileHelper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/mehrop/Desktop/Octank/MBCall3/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/mehrop/Desktop/Octank/MBCall3/AWSMobileHelper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_popup_exit.xml"
+    },
+    {
         "merged": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
         "source": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/AWSMobileHelper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mehrop/Desktop/Octank/MBCall3/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/mehrop/Desktop/Octank/MBCall3/AWSMobileHelper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_slide_in_top.xml"
     },
     {
         "merged": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
@@ -30,6 +62,14 @@
     {
         "merged": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
         "source": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/AWSMobileHelper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/mehrop/Desktop/Octank/MBCall3/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/mehrop/Desktop/Octank/MBCall3/AWSMobileHelper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mehrop/Desktop/Octank/MBCall3/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/mehrop/Desktop/Octank/MBCall3/AWSMobileHelper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/anim/abc_fade_out.xml"
     },
     {
         "merged": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/AWSMobileHelper/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",

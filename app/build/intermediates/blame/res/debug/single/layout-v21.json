@@ -4,8 +4,16 @@
         "source": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_action.xml"
     },
     {
+        "merged": "/Users/mehrop/Desktop/Octank/MBCall3/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/mehrop/Desktop/Octank/MBCall3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_action.xml"
+    },
+    {
         "merged": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
         "source": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/mehrop/Desktop/Octank/MBCall3/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/mehrop/Desktop/Octank/MBCall3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_action_tombstone.xml"
     },
     {
         "merged": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
@@ -14,5 +22,13 @@
     {
         "merged": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
         "source": "/Users/prafulmehrotra/Downloads/mbcall3-aws-my-sample-app-android (1)/MySampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mehrop/Desktop/Octank/MBCall3/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/mehrop/Desktop/Octank/MBCall3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/mehrop/Desktop/Octank/MBCall3/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/mehrop/Desktop/Octank/MBCall3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v21/notification_template_icon_group.xml"
     }
 ]
